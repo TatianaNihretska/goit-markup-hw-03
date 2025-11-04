@@ -112,7 +112,7 @@ img {
 /* section */
 .main-page {
   background-color: #2e2f42;
-  padding: 120px 0;
+
   width: calc((100% - 72px) / 4);
 }
 .main-page-title {
@@ -127,6 +127,7 @@ img {
   margin-bottom: 48px;
   padding-top: 188px;
   max-width: 496px;
+  padding: 188px 0;
 }
 
 .main-page-btn {
@@ -311,6 +312,7 @@ img {
 }
 .footer-box {
   background-color: #2e2f42;
+  padding: 100px 0;
 }
 .footer-descr {
   margin-top: 16px;
