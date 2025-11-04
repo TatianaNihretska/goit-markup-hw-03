@@ -114,6 +114,7 @@ img {
   background-color: #2e2f42;
 
   width: calc((100% - 72px) / 4);
+  padding: 188px 0;
 }
 .main-page-title {
   font-weight: 700;
@@ -269,6 +270,7 @@ img {
 }
 .portfolio-sect {
   padding: 120px 0 120px 0;
+  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-list-main {
@@ -277,8 +279,6 @@ img {
   align-items: center;
   row-gap: 48px;
   column-gap: 24px;
-
-  width: calc((100% - 48px) / 3);
 }
 .portfolio-container {
   padding: 32px 16px;
