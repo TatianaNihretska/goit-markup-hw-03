@@ -204,7 +204,6 @@ img {
   align-items: center;
   gap: 24px;
   padding-bottom: 120px;
-  width: calc((100% - 72px) / 4);
 }
 .our-team-sect {
   background-color: #f4f4fd;
@@ -226,6 +225,7 @@ img {
 .team-list {
   background-color: #ffffff;
   border-radius: 0 0 4px 4px;
+  width: calc((100% - 72px) / 4);
 }
 .team-meamber-descr {
   padding-bottom: 32px;
