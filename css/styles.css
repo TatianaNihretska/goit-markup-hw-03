@@ -173,8 +173,9 @@ img {
   display: flex;
   align-items: center;
   gap: 24px;
-  padding: 120px 0;
-  width: calc((100%-72) / 4);
+}
+.skills-list-sub {
+  width: calc((100% - 72px) / 4);
   padding: 120px 0;
 }
 
@@ -270,7 +271,6 @@ img {
 }
 .portfolio-sect {
   padding: 120px 0 120px 0;
-  width: calc((100% - 48px) / 3);
 }
 
 .portfolio-list-main {
@@ -279,6 +279,11 @@ img {
   align-items: center;
   row-gap: 48px;
   column-gap: 24px;
+}
+.portfolio-list-sub {
+  width: calc((100% - 48px) / 3);
+  padding: 32px 16px;
+  border: 1px solid #e7e9fc;
 }
 .portfolio-container {
   padding: 32px 16px;
