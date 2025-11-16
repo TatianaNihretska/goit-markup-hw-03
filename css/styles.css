@@ -124,8 +124,9 @@ img {
   text-align: center;
   color: #fff;
   margin-bottom: 48px;
-  padding-top: 188px;
   max-width: 496px;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 .main-page-btn {
@@ -142,7 +143,6 @@ img {
   display: block;
   margin: 0 auto;
   padding: 16px 32px;
-  margin-bottom: 188px;
   min-width: 169px;
   height: 56px;
   border: none;
@@ -219,7 +219,6 @@ img {
   color: #2e2f42;
   text-transform: capitalize;
   margin-bottom: 72px;
-  padding-top: 120px;
 }
 .team-list {
   background-color: #ffffff;
@@ -264,7 +263,6 @@ img {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  padding-top: 120px;
   margin-bottom: 72px;
 }
 .portfolio-sect {
@@ -307,15 +305,12 @@ img {
   color: #434455;
 }
 /* footer */
-.footer-container {
-  padding: 100px 0;
-}
+
 .footer-box {
   background-color: #2e2f42;
   padding: 100px 0;
 }
 .footer-descr {
-  margin-top: 16px;
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
@@ -329,4 +324,12 @@ img {
 .web-logo-foot {
   display: inline-block;
   margin-bottom: 16px;
+  color: #4d5ae5;
+  font-weight: 700;
+font-size: 18px;
+line-height: 117%;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+font-family: "Raleway", sans-serif;;
+
 }
